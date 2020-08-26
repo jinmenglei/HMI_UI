@@ -6,6 +6,8 @@
 
 回头补上动图
 
+![gif](https://github.com/jinmenglei/HMI_UI/blob/master/hmi0.gif)
+
 ### 交互命令：
 
 | 序号 | 命令               | 示例                                                         | 发送方 |
